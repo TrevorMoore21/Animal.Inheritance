@@ -1,8 +1,8 @@
 
 public abstract class Animal
 	{
-		private String type = "animal";
-		private String food = "sustinance";
+		protected String name;
+	    protected String food;
 		
 		public abstract void bearsYoung();
 			
