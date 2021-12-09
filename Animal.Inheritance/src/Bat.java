@@ -14,11 +14,11 @@ public class Bat extends Mammal
 		}
 
 	
-		public void eats()
-			{
-				System.out.println("I am a " + name + " and I eat " + food);
-				
-			}
+//		public void eats()
+//			{
+//				System.out.println("I am a " + name + " and I eat " + food);
+//				
+//			}
 
 		
 		

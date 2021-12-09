@@ -6,7 +6,11 @@ public abstract class Animal
 		
 		public abstract void bearsYoung();
 			
-		public abstract void eats();
+		public void eats()
+			{
+				System.out.println("I am a " + name + " and I eat " + food);
+				
+			}
 			
 		public abstract void makesNoise();
 			
